@@ -1,0 +1,22 @@
+{
+    "name":"Dummy",
+    "displayID":"1",
+    "currentSlot":null,
+    "MaxHp":"100",
+    "CurrentHp":"100",
+    "MaxMana":"100",
+    "CurrentMana":"100",
+    "ManaGain":"0",
+    "DF":"10",
+    "MR":"10",
+    "AD":"10",
+    "AP":"10",
+    "Sp":"1",
+    "Slot1ID":"1",
+    "Slot2ID":"1",
+    "Slot3ID":"1",
+    "isStunned":false,
+    "isWeak":false,
+    "isOnFire":false,
+    "isEnemy": true
+}

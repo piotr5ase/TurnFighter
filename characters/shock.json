@@ -1,0 +1,22 @@
+{
+   "name":"Shock",
+   "displayID":"1",
+   "currentSlot":null,
+   "MaxHp":"200",
+   "CurrentHp":"200",
+   "MaxMana":"300",
+   "CurrentMana":"300",
+   "ManaGain":"0",
+   "DF":"10",
+   "MR":"10",
+   "AD":"10",
+   "AP":"10",
+   "Sp":"1",
+   "Slot1ID":"0",
+   "Slot2ID":"2",
+   "Slot3ID":"4",
+   "isStunned":true,
+   "isWeak":false,
+   "isOnFire":false,
+   "isEnemy": false
+}

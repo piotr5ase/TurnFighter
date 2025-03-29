@@ -1,0 +1,23 @@
+{
+    "name":"Puszek pożeracz światów",
+    "displayID":"0",
+    "currentSlot":null,
+    "MaxHp":"10000",
+    "CurrentHp":"10000",
+    "MaxMana":"1000000",
+    "CurrentMana":"1000000",
+    "ManaGain":"1000",
+    "DF":"10",
+    "MR":"10",
+    "AD":"100000",
+    "AP":"10",
+    "Sp":"1",
+    "Slot1ID":"3",
+    "Slot2ID":"0",
+    "Slot3ID":"0",
+    "Slot4ID":"0",
+    "isStunned":false,
+    "isWeak":false,
+    "isOnFire": false,
+    "isEnemy": true
+}
